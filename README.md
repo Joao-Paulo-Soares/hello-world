@@ -1,2 +1,3 @@
 # hello-world
 Primeira publicação no GitHub
+Estou estudando e fazendo testes... Logo logo novos projetos....
